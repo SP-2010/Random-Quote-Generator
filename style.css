@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+* {
+    background-color: #030203;
+}
+h1 {
+    font-family: Raleway;
+    color: white;
+}
+h2 {
+    font-family: Raleway;
+    color: white;
+}
+button {
+    font-family: Raleway;
+    border: 2px solid #052143;
+    border-radius: 10px;
+    color: white;
+    height: 30px;
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+button:hover {
+    background-color: #052143;
+    color: white;
+}
